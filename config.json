@@ -1,0 +1,19 @@
+{
+    "CLIENT_INFO_LOG_FILE":"D:\\AFour\\Training\\Week2\\infoUI.log",
+    "CLIENT_INFO_LOG_FILE_MAXSIZE":"5242880",
+    "CLIENT_INFO_LOG_FILE_MAXFILES":"5",
+
+    "CLIENT_ERROR_LOG_FILE":"D:\\AFour\\Training\\Week2\\errorUI.log",
+    "CLIENT_ERROR_LOG_FILE_MAXSIZE":"5242880",
+    "CLIENT_ERROR_LOG_FILE_MAXFILES":"5",
+
+    "SERVER_INFO_LOG_FILE":"D:\\AFour\\Training\\Week2\\info.log",
+    "SERVER_INFO_LOG_FILE_MAXSIZE":"5242880",
+    "SERVER_INFO_LOG_FILE_MAXFILES":"5",
+
+    "SERVER_ERROR_LOG_FILE":"D:\\AFour\\Training\\Week2\\error.log",
+    "SERVER_ERROR_LOG_FILE_MAXSIZE":"5242880",
+    "SERVER_ERROR_LOG_FILE_MAXFILES":"5"
+
+
+}
